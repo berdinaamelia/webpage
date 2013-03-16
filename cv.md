@@ -22,7 +22,7 @@ Kumpulan Tugas Latihan Web
 					<tbody>
 						<tr>
 							<td>-Nama </td>
-							<td>- Berdina Amelia W</td>
+							<td>: Berdina Amelia W</td>
 						</tr>
 						<tr>
 							<td>- Tempat Tanggal Lahir </td>
